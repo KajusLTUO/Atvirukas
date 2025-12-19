@@ -172,7 +172,7 @@ body {
 .flip-card-back {
   display: grid;
   place-content: center;
-  background: url(/images/element-34.png) no-repeat fixed center;
+  background: url(element-34.png) no-repeat fixed center;
   background-color: var(--cardColorBack);
   color: var(--cardColorFront);
   transform: rotateY(180deg);
